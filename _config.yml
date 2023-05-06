@@ -4,6 +4,7 @@ description:        Chacha's blog for studying things
 author:             Chacha
 baseurl:            ""
 url:                "https://djpanda1217.github.io"
+remote_theme:       StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Social Profiles
 twitter_username:   
